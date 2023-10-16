@@ -1,0 +1,5 @@
+college_code,college_name,student_count,username,password,sms_status,email_status,timestamp,email,phone
+1135,Aalim Muhammed Salegh Academy of Architecture,120,tnengg1135,366527,True,True,12:34:47,abdu@amsarch.ac.in,9566009093
+1130,MARG Instiute of Design & Architecture Swarnabhoomi (MIDAS),0,tnengg1130,302531,True,True,12:34:48,admin@midas.ac.in,8754501546
+1114,S A Engineering College,1007,tnengg1114,240738,True,True,12:34:49,sureshk@saec.ac.in,9894598755
+1115,Sri Ram Engineering College,0,tnengg1115,496701,True,True,12:34:51,saravanan.asotprof@gmail.com,9965845906

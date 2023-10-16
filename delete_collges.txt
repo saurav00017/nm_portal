@@ -1,0 +1,9 @@
+from reports.models import DistrictReport,CollegeReport
+from datarepo.models import District
+from college.models import College
+
+DistrictReport.objects.all().delete()
+CollegeReport.objects.all().delete()
+District.objects.all().delete()
+College.objects.all().delete()
+
